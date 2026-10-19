@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Demonstration A",
+    "symbol": "DEMO-A",
+    "investment": "INSUFFICIENT DATA",
+    "news": [],
+    "trading": "HOLD / WAIT",
+    "reason": "Rule-based pilot; not backtested. News not scored.",
+    "asof": "2026-10-19T13:00:00+00:00",
+    "trend": "UP",
+    "price": 46.92236919855364,
+    "support": 44.5185860904641,
+    "resistance": 46.44126847036037,
+    "rsi": 89.33313295052885,
+    "volume_ratio": 2.2,
+    "entry": null,
+    "stop": null,
+    "targets": []
+  },
+  {
+    "name": "Demonstration B",
+    "symbol": "DEMO-B",
+    "investment": "INSUFFICIENT DATA",
+    "news": [],
+    "trading": "HOLD / WAIT",
+    "reason": "Rule-based pilot; not backtested. News not scored.",
+    "asof": "2026-10-19T13:00:00+00:00",
+    "trend": "UP",
+    "price": 106.32622968730757,
+    "support": 104.38107987117192,
+    "resistance": 106.5891327726787,
+    "rsi": 80.59829161466558,
+    "volume_ratio": 1.0,
+    "entry": null,
+    "stop": null,
+    "targets": []
+  }
+]
